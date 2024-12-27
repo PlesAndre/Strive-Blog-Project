@@ -1,7 +1,7 @@
 // Importa "mongoose" una libreria che semplifica l'interazione con MongoDB. Definisce schemi e modelli per dati, e gestisce la connessione e le operazione con il DB
 import mongoose from "mongoose";
 
-import "dotenv/config"
+import "dotenv/config";
 
 // Viene dichiarata funzione asincrona perchè la connessione al DB richiede del tempo, facendo si che il sito non si blocchi.
 const connectDB = async () => {
@@ -19,4 +19,4 @@ const connectDB = async () => {
   }
 };
 
-export default connectDB
+export default connectDB;
