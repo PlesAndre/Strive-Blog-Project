@@ -1,2 +1,4 @@
 .env
 /node_modules
+/backend/temp/
+/backend/file-non-tracciati.log
