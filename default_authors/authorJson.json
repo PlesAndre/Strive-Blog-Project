@@ -1,0 +1,73 @@
+[
+    {
+      "Nome": "Luca",
+      "Cognome": "Rossi",
+      "Email": "luca.rossi@example.com",
+      "Data di Nascita": "1990-01-15",
+      "Avatar": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+      "Nome": "Maria",
+      "Cognome": "Bianchi",
+      "Email": "maria.bianchi@example.com",
+      "Data di Nascita": "1985-03-22",
+      "Avatar": "https://randomuser.me/api/portraits/women/1.jpg"
+    },
+    {
+      "Nome": "Giovanni",
+      "Cognome": "Verdi",
+      "Email": "giovanni.verdi@example.com",
+      "Data di Nascita": "1979-07-30",
+      "Avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+      "Nome": "Anna",
+      "Cognome": "Neri",
+      "Email": "anna.neri@example.com",
+      "Data di Nascita": "1992-11-11",
+      "Avatar": "https://randomuser.me/api/portraits/women/2.jpg"
+    },
+    {
+      "Nome": "Marco",
+      "Cognome": "Conti",
+      "Email": "marco.conti@example.com",
+      "Data di Nascita": "1988-05-25",
+      "Avatar": "https://randomuser.me/api/portraits/men/3.jpg"
+    },
+    {
+      "Nome": "Sara",
+      "Cognome": "Galli",
+      "Email": "sara.galli@example.com",
+      "Data di Nascita": "1995-02-10",
+      "Avatar": "https://randomuser.me/api/portraits/women/3.jpg"
+    },
+    {
+      "Nome": "Paolo",
+      "Cognome": "De Luca",
+      "Email": "paolo.deluca@example.com",
+      "Data di Nascita": "1983-08-18",
+      "Avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+      "Nome": "Elisa",
+      "Cognome": "Mancini",
+      "Email": "elisa.mancini@example.com",
+      "Data di Nascita": "1991-12-05",
+      "Avatar": "https://randomuser.me/api/portraits/women/4.jpg"
+    },
+    {
+      "Nome": "Andrea",
+      "Cognome": "Costa",
+      "Email": "andrea.costa@example.com",
+      "Data di Nascita": "1987-04-09",
+      "Avatar": "https://randomuser.me/api/portraits/men/5.jpg"
+    },
+    {
+      "Nome": "Chiara",
+      "Cognome": "Marini",
+      "Email": "chiara.marini@example.com",
+      "Data di Nascita": "1994-06-20",
+      "Avatar": "https://randomuser.me/api/portraits/women/5.jpg"
+    }
+  ]
+  
