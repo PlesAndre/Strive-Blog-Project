@@ -16,7 +16,7 @@
 import express from "express";
 
 // Importa "cors" che permette la comunicazione tra FE e DB
-import cors from "cors"
+import cors from "cors";
 
 // Importa il file di connessione al DB
 import connectDB from "./config/db.js";
@@ -27,7 +27,7 @@ const server = express();
 // Di default il server express() non interpreta il JSON, quindi bisogna specificarlo
 server.use(express.json());
 
-server.use(cors())
+server.use(cors());
 
 // Specifica della "port" per il backend
 const port = 3001;
@@ -35,14 +35,12 @@ const port = 3001;
 // Chiama la funzione per connettersi al DB
 connectDB();
 
-/*
-// Come chiamare i dati nella BE
-const consoleAuthors = async () => {
-  const consAuth = await getAllAuthors
-  console.log(consAuth)
-}
-consoleAuthors()
-*/
+// // Come chiamare i dati nella BE
+// const consoleAuthors = async () => {
+//   const consAuth = await getAllAuthors();
+//   console.log(consAuth);
+// };
+// consoleAuthors();
 
 // Server per avviare il server e "ascoltare" una porta specifica, in questo caso "3001", in modo che sia pronta a ricevere e gestire richieste
 server.listen(port, () => {
